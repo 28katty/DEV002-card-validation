@@ -6,8 +6,30 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header></header>
-    <main></main>
+
+    <header>
+      <h1>VALIDACION DE TARJETA</h1>
+    </header>
+
+    <main>
+
+        <section class="tarjeta" id="tarjeta">
+        <img src="img/tarjeta_negra.png" alt="" width="400px" height="250px">
+        </section>
+
+        <section class="datos" id="datos">
+          <h2>VALIDACION DE TARJETA</h2>
+          <h2>Número de tarjeta</h2>
+          <label>
+          <input type="text" id="numero1" maxlength="20" placeholder="xxxxxxxxxxxxx" style="border-radius:4px; border:2px solid #6998AB">
+          </label>
+
+          <BR></BR>
+
+          <button type="button" id="btnValidar">VALIDAR</button>
+        </section>
+
+    </main>
     <footer></footer>
     <script src="index.js" type="module"></script>
   </body>
