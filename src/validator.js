@@ -45,9 +45,9 @@ const validator = {
     console.log(sumaTotal);
     //validar
     if(sumaTotal % 10 ===0){
-      return alert ("LA TARJETA ES VALIDA")
+      return true
     }else{
-      return alert("ERROR - TARJETA INVALIDA")
+      return false
     };
 
   },
@@ -81,6 +81,7 @@ const validator = {
     const mascaraCaracteres = creditCardNumber.substr(0, creditCardNumber.length - 4).replace(/\d/g, "#");
     console.log(mascaraCaracteres);
     return `${primerosCaracteres}${mascaraCaracteres}${ultimosCaracteres}`;
+    //console.log("mascara final" +`${primerosCaracteres}${mascaraCaracteres}${ultimosCaracteres}`);
     }
   }
 
