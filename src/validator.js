@@ -48,7 +48,7 @@ const validator = {
       return true
     }else{
       return false
-    };
+    }
 
   },
 
