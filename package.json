@@ -39,5 +39,6 @@
   "bugs": {
     "url": "https://github.com/Laboratoria/DEV002-card-validation/issues"
   },
-  "homepage": "https://github.com/Laboratoria/DEV002-card-validation#readme"
+  "homepage": "https://github.com/Laboratoria/DEV002-card-validation#readme",
+  "devDependencies": {}
 }
