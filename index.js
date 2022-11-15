@@ -19,7 +19,7 @@ buttomValidar.addEventListener("click",function(){
     return alert("LA TARJETA ES VALIDA");
   }else{
     return alert("ERROR - TARJETA INVALIDA");
-  };
+  }
   //console.log("resultado tarjmasc ", tarjMasc);
   //console.log(numberCard);
 
