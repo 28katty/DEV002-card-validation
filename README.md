@@ -3,7 +3,7 @@
 * Poder validar una tarjeta bancaria para facilitar a los usurios sus compras por internet
 
 ## imagen final del proyecto
-src\img\imgFinal.png
+![prototipo 1] (https://github.com/28katty/DEV002-card-validation/blob/main/src/img/imgFinal.png)
 
 ## ¿Quienes son los principales usuarios del producto? ##
 - Mis principales usuarios son los compradores de Ecommerce
@@ -16,7 +16,7 @@ src\img\imgFinal.png
 
 ## Prototipo de proyecto
 - Asi empezo mi prototipo que al final modifique por que entendi el objetivo principal que era solo validar la tarjeta.
-src\img\imgProt.png
+![prototipo 1] (https://github.com/28katty/DEV002-card-validation/blob/main/src/img/imgProt.png)
 
 ## Día 1 ##
 - Iniciar con el diseño de la vista de validacion
